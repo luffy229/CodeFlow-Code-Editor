@@ -1,4 +1,4 @@
-<h1 align="center">✨ SaaS Code Editor - Next.js 15 ✨</h1>
+<h1 align="center">✨Code Editor✨</h1>
 
 Highlights:
 

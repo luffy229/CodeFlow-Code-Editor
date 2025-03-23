@@ -1,9 +1,5 @@
 <h1 align="center">✨ SaaS Code Editor - Next.js 15 ✨</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
-
-[Watch Full Tutorial on Youtube](https://youtu.be/fGkRQgf6Scw)
-
 Highlights:
 
 - 🚀 Tech stack: Next.js 15 + Convex + Clerk + TypeScript

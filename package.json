@@ -11,7 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^6.6.0",
     "@monaco-editor/react": "^4.6.0",
-    "convex": "^1.17.3",
+    "convex": "^1.21.0",
     "framer-motion": "^11.13.1",
     "lucide-react": "^0.464.0",
     "next": "15.0.3",
